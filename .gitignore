@@ -1,0 +1,15 @@
+# Terraform local state and history (Never commit state files)
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.tfvars.json
+.terraform.lock.hcl
+
+# CLI crash logs
+crash.log
+crash.*.log
+
+# System files
+.DS_Store
+Thumbs.db
