@@ -16,6 +16,7 @@ Demonstrate Infrastructure as Code (IaC) principles by declaratively provisionin
                                                                        v
                                                            [ Nginx Container:8080 ]
 ```
+---
 
 ## Tech Stack & Tools
 
